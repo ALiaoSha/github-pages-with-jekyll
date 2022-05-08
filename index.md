@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to ALiaoSha's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. 
+This is a blog mainly for web3
